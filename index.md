@@ -35,4 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-[Install 荣程中控](rcinstall.plist)
+
+
+[Install 荣程中控](itms-services://?action=download-manifest&url=https://guokeno1.github.io/IPAInstaller/rcinstall.plist)
